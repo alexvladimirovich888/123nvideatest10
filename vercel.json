@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/NVIDIAs-Former-CEO-Hid-Three-Affairs-From-His-Wife-for-Six-Years",
-      "destination": "https://123nvideatest10.vercel.app/"
+      "destination": "/index.html"
     }
   ]
 }
